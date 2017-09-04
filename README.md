@@ -7,7 +7,7 @@ Get a minimal responsive template for your WebGL games and apps!
 
 ## Why?
 
-By default, unity WebGL templates require a fixed canvas size that, while good enough for some cases, tends to be too limiting in many situations. I created this repository because I needed a way to resize the canvas size to fit the screen automatically and I couldn't find any other prepackaged solution.
+By default, unity WebGL templates require a fixed canvas size that, while good enough for some cases, tends to be too limiting in many situations. I created this repository because I needed a way to resize the canvas to fit the screen automatically and I couldn't find any other prepackaged solution.
 
 ## Usage
 
