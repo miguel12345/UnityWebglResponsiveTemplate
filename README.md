@@ -4,6 +4,10 @@ Get a minimal responsive template for your WebGL games and apps!
 
 ![](example_gif.gif)
 
+You can also set a fixed aspect ratio!
+
+![](aspect_ratio_settings.png)![](responsive_aspect_ratio.gif)
+
 
 ## Why?
 
