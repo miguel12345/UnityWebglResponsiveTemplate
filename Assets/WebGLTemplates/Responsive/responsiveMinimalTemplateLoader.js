@@ -86,7 +86,7 @@ function instantiateUnity(url,aspectRatio) {
     if(aspectRatio) {
         var aspectRatioComponents = aspectRatio.split(":");
         if(aspectRatioComponents.length != 2) {
-            console.exception("Unity: Aspect Ratio tag doesn't follow the expect aspect ratio format A:B e.g. 16:9")
+            console.exception("Unity: Aspect Ratio tag doesn't follow the expect aspect ratio format A:B e.g. 16:9");
             return;
         }
 
